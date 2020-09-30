@@ -1,0 +1,29 @@
+
+/* ============================================= */
+/*              Typography                       */
+/* ============================================= */
+
+.headline-primary {
+    color: $light-green;
+    margin-left: 10px;
+  }
+  
+  .headline-secondary {
+    font-weight: 300;
+    color: #777;
+  }
+  
+  .link {
+    color: #51ddfc;
+    font-weight: 700;
+  }
+  
+  .blockquote {
+    font-size: 1.5em;
+    font-weight: 300;
+    font-style: italic;
+    margin-left: 20px;
+    padding-left: 20px;
+    border-left: 8px solid $light-green;
+    border-radius: 5px;
+  }
